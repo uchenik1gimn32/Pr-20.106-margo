@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">karaoke</string>
+    <string name="kar">КАРАОКЕ</string>
+    <string name="pqra">TODO</string>
+    <string name="sq1">TODO</string>
+    <string name="sq2">TODO</string>
+    <string name="sqsposi">поиск</string>
+    <string name="ddsq4">избранное</string>
+    <string name="cxzsdsa">каталог</string>
+    <string name="qqwe">выход</string>
+    <string name="sq3">TODO</string>
+    <string name="sq4">TODO</string>
+    <string name="sq5">TODO</string>
+    <string name="sq6">TODO</string>
+    <string name="sq7">TODO</string>
+    <string name="s8">TODO</string>
+    <string name="sq10">TODO</string>
+    <string name="sq11">TODO</string>
+    <string name="sq12">TODO</string>
+    <string name="sq13">TODO</string>
+    <string name="sq14">TODO</string>
+    <string name="sqs312">TODO</string>
+    <string name="qsqr1">TODO</string>
+    <string name="sq123">TODO</string>
+    <string name="zcswsa">ЗВЕЗДА ПО ИМЕНИ СОЛНЦЕ</string>
+    <string name="dsaq241">Красная-красня кровь\nЧерез час уже просто земля\nЧерез два на ней цветы и трава\nЧерез три она снова жива\nИ согрета лучами звезды по имени Солнце</string>
+    <string name="n_n_n_n">Красная-красная кровь\n Через час уже просто земля\n Через два на ней цветы и трава\n Через три она снова жива\n И согрета лучами звезды по имени Солнце</string>
+    <string name="ррр">ИЗБРАННОЕ</string>
+</resources>
